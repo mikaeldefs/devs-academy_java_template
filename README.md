@@ -3,7 +3,7 @@ Atividades de Java para o curso Desenvolvimento Web Full-Stack Devs Academy da D
 
 Índice:
 
-1. [Introdução à POO](tree/main/src/_01_introducao_a_poo)
+1. [Introdução à POO](/src/_01_introducao_a_poo)
     - [Exercício 01](https://github.com/midorishibukawa/devs-academy_java_template/tree/main/src/_01_introducao_a_poo/exercicio_01)
     - [Exercício 02](https://github.com/midorishibukawa/devs-academy_java_template/tree/main/src/_01_introducao_a_poo/exercicio_02)
 
