@@ -1,3 +1,26 @@
+# Como utilizar este modelo
+
+É possível simplesmente copiar todos os arquivos `.java` para os diretórios de seus respectivos exercícios.
+
+Para migrar de múltiplos repositórios para um único repositório utilizando este modelo, siga as seguintes instruções:
+
+1. Bifurque este repositório
+
+2. Clone a bifurcação em sua máquina local
+
+3. Execute o seguinte comando para cada repositório (substitua os {{ ??? }} pelo valor indicado):
+    <pre><code>
+    git subtree add <i>{{ caminho para o diretório do repositório no modelo }}</i> {{ caminho para o repositório original }} {{ nome da branch }}
+    </code></pre>
+
+    Obs. 1: No lugar do `caminho para o repositório original`, é possível utilizar o caminho para o diretório git local de sua máquina (p.ex.: ../caminho/para/o/diretorio/git/local).
+
+    Obs. 2: Caso você **não** deseje manter um histórico de commits único no monorrepositório, adicione a flag `--squash` ao final do comando.
+
+4. Faça um commit para salvar as alterações
+
+5. Faça um push para enviar o novo monorrepositório para o repositório remoto
+
 # Devs Academy: Atividades Java
 Atividades de Java para o curso Desenvolvimento Web Full-Stack Devs Academy da Digital House em parceria com a Deloitte.
 
