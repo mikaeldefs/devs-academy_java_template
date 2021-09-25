@@ -36,7 +36,6 @@ Atividades de Java para o curso Desenvolvimento Web Full-Stack Devs Academy da D
     - [Exercício 03](src/_02_poo_e_java/exercicio_03)
     - [Exercício 04](src/_02_poo_e_java/exercicio_04)
     - [Exercício 05](src/_02_poo_e_java/exercicio_05)
-    - [Exercício 05](src/_02_poo_e_java/exercicio_05)
     - [Desafio](src/_02_poo_e_java/desafio)
 
 3. [Herança e Classe Abstrata](src/_03_heranca_e_classe_abstrata)
