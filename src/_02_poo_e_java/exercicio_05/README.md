@@ -7,40 +7,29 @@ Como estratégia de marketing, a concessionária quer ter um registro dos client
 Por outro lado, o departamento de contabilidade da concessionária quer ter um registro das vendas realizadas. 
 
 Cada registro deve ter as seguintes informações:
-
     * valorDaVenda 
-    
     * veiculoVendido 
-    
     * cliente 
 
 1. Fazer um diagrama de classe representando o modelo que queremos implementar. 
 
 2. Implementar cada classe e definir os atributos. As classes que devem ser implementadas são: 
-
     * Concessionária
     * Cliente
     * Venda
     * Veículo
 
 3. Criar os construtores para as classes Cliente, Veículo e Venda. 
-
     * Cliente terá como parâmetros:
-
         * nome
-
         * sobrenome
-
         * contato
-
     * Veículo terá como parâmetros:
-        
         * marca
         * modelo
         * ano de fabricação
         * cor
         * quilometragem
-
     * Venda terá como parâmetros:
         * cliente
         * veículo

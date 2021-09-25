@@ -1,15 +1,10 @@
 # Exercício 02: Jogadores e treinamento 
 
 1. Definir uma nova classe JogadorDeFutebol contendo os seguintes atributos:
-
     * nome 
-
     * energia 
-
     * alegria 
-
     * gols 
-
     * experiência 
 
 2. Criar um método chamado fazerGol em jogador, que tire 5 pontos de energia e dê 10 pontos de alegria ao jogador, além de aumentar o número de gols em 1.
@@ -21,17 +16,13 @@
     O método deve imprimir na tela: “Cansei”. 
 
 4. Definir uma nova classe SessaoDeTreinamento contendo os seguintes atributos: 
-
     * experiência (ganha quando um treinamento é realizado) 
 
 5. Criar um método chamado treinarA que tenha como parâmetro de entrada um jogador de futebol.
 
     Como é um treinamento, o jogador precisa:
-
     * Correr 
-
     * Fazer um Gol 
-
     * Correr 
 
     Depois que o jogador fizer essas três coisas, a experiência dele deve aumentar, somando um ponto na experiência.

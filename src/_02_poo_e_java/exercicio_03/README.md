@@ -1,17 +1,12 @@
 # Exercício 03: Atletas e prova 
 
 1. Definir uma nova classe Atleta contendo os seguintes atributos: 
-
     * nome 
-
     * nível 
-
     * energia 
 
 2. Definir uma nova classe Prova contendo os seguintes atributos: 
-
     * dificuldade 
-
     * energiaNecessaria 
 
 3. Criar, na classe Prova, o método podeRealizar, que tenha como parâmetro de entrada um objeto do tipo Atleta.

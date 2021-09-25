@@ -1,17 +1,12 @@
 # Exercício 01: Clientes e contas 
 
 1. Definir uma nova classe Cliente contendo os seguintes atributos: 
-
     * nome
-
     * sobrenome
 
 2. Definir uma nova classe Conta contendo os seguintes atributos: 
-
     * número da conta 
-
     * saldo 
-
     * titular (o titular é um objeto do tipo Cliente). 
 
 3. Criar um método chamado depósito que tenha como parâmetro de entrada quantia em dinheiro.

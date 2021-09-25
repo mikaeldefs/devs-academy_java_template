@@ -1,0 +1,3 @@
+# Exercício 05 
+
+Implemente o programa da calculadora utilizando uma instrução switch-case para determinar a operação que deve ser executada, conforme o usuário escolhe no menu de opções. Conforme a opção escolhida pelo usuário, um diferente método da calculadora é executado. Por exemplo: digamos que a opção esteja associada ao método somar(op1, op2), então será executado este método da calculadora, e o resultado obtido será a soma dos operandos 1 e 2.

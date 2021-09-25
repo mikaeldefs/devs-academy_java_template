@@ -3,13 +3,9 @@
 O tripé é um aparelho de três pés, com a parte superior circular ou triangular, que permite estabilizar uma câmera e evitar os movimentos dela. Queremos modelar o comportamento desse objeto. 
 
 1. Definir uma classe Tripé contendo os seguintes atributos: 
-
     * dobrado: indica o estado atual do tripé (dobrado ou não) 
-
     * alturaMinima 
-
     * alturaMaxima 
-
     * alturaAtual. 
 
 2. Definir o método definirAltura(Integer novaAltura), que receba uma altura e modifique o valor da altura atual. 
