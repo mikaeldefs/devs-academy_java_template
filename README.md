@@ -53,8 +53,9 @@ Atividades de Java para o curso Desenvolvimento Web Full-Stack Devs Academy da D
     - [Atividade 02](src/_08_collection_estrutura_de_dados/atividade_02)
       - [Exercício 01](src/_08_collection_estrutura_de_dados/atividade_02/exercicio_01)
       - [Exercício 02](src/_08_collection_estrutura_de_dados/atividade_02/exercicio_02)
-      - [Exercício 03](sc/_08_collection_estrutura_de_dados/atividade_02/exercicio_03)
+      - [Exercício 03](src/_08_collection_estrutura_de_dados/atividade_02/exercicio_03)
       - [Exercício 04](src/_08_collection_estrutura_de_dados/atividade_02/exercicio_04)
+      - [Exercício 05](src/_08_collection_estrutura_de_dados/atividade_02/exercicio_05)
  
 9. [Exceções](src/_09_excecoes)
     - [Exercício 01](src/_09_excecoes/exercicio_01)
