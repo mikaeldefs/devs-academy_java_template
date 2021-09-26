@@ -8,7 +8,7 @@ Para migrar de múltiplos repositórios para um único repositório utilizando e
 
 2. Clone a bifurcação em sua máquina local
 
-3. Execute o seguinte comando para cada repositório (substitua `{{ ??? }} pelo valor indicado):
+3. Execute o seguinte comando para cada repositório (substitua `{{ ??? }}` pelo valor indicado):
     <pre><code>
     git subtree add <i>{{ caminho para o diretório do repositório no modelo }}</i> {{ caminho para o repositório original }} {{ nome da branch }}
     </code></pre>
