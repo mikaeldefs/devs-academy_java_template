@@ -1,4 +1,16 @@
-# Como utilizar este modelo
+# Como utilizar este modelo do zero
+
+Para utilizar este modelo do zero, sem repositórios pré-existentes, siga as seguintes instruções:
+
+1. Bifurque este repositório
+
+2. Clone a bifurcação em sua máquina local
+
+3. Utilize o modelo à vontade
+
+Sinta-se livre para utilizar quaisquer partes do modelo como bem entender!
+
+# Como utilizar este modelo com repositórios pré-existentes
 
 É possível simplesmente copiar todos os arquivos `.java` para os diretórios de seus respectivos exercícios.
 
