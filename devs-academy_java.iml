@@ -9,9 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
       <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/src/impressora/Imprimivel.java" />
-        </CLASSES>
+        <CLASSES />
         <JAVADOC />
         <SOURCES />
       </library>
